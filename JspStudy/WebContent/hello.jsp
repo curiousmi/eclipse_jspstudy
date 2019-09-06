@@ -14,7 +14,7 @@
    System.out.println("str=>"+str);//콘솔 
    out.println("<h1>"+str+"</h1>");//
    //document.write("str=>"+str)
- %>
+ %>merge
  <%=str%>
 </body>
 </html>
